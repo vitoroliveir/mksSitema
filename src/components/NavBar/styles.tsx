@@ -140,7 +140,7 @@ export const ShoppingCartActive = styled.div<ShoppingCartActivePorps>`
     }
 
     @media(min-width:500px){
-        height: 192vh;
+        height: 191vh;
         width:432px;
 
         h2{
