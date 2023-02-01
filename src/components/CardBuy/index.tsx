@@ -33,7 +33,7 @@ export default function CardBuy() {
   return (
     <Container>
       {Product.products.map((props: Products) => (
-        <Card>
+        <Card key={props.id}>
           <img src={props.photo} />
           <h1>{props.name}</h1>
           <Value>{formatCurrency(props.price)}</Value>
