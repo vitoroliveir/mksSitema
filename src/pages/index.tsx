@@ -56,6 +56,7 @@ export default function Home(props: { results: Products }) {
           
           
         }
+        
       </Cards>
       <Footer />
     </Container>
