@@ -6,6 +6,7 @@ export const Container = styled.div`
     display:flex;
     align-items:center;
     justify-content:center;
+    background-color: var(--background-white);
 
 /*     @media(min-width:500px){
         height:150vh;

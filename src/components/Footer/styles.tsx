@@ -10,7 +10,7 @@ export const Container = styled.footer`
     font-size: 12px;
     font-weight: 400;
     background-color:#EEEEEE;
-   
+    color:black;
 
     display:flex;
     align-items:center;

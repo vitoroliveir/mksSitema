@@ -23,6 +23,7 @@ export const Container = styled.div`
         font-weight: 600;
         cursor: pointer;
         user-select: none;
+        color:black;
     }
 
 `;

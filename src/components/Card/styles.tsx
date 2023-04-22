@@ -58,6 +58,7 @@ export const Containers = styled.div`
         font-size: 16px;
         font-weight: 400;
         line-height: 19px;
+        color:black;
 
     }
 
@@ -74,6 +75,7 @@ export const Containers = styled.div`
         font-size: 10px;
         font-weight: 300;
         line-height: 12px;
+        color:black;
 
     }
 
